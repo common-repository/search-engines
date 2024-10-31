@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Search Engines\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-14 23:31-0600\n"
+"PO-Revision-Date: 2011-01-14 23:32-0600\n"
+"Last-Translator: Luis Alberto Ochoa <soy@luisalberto.org>\n"
+"Language-Team:  <soy@luisalberto.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: search-engines.php:190
+#, php-format
+msgid "%1$sPage %2$s"
+msgstr "%1$sPágina %2$s"
+
+#: search-engines.php:523
+msgid "Front page"
+msgstr "Página principal"
+
+#: search-engines.php:538
+msgid "Authors"
+msgstr "Autores"
+
+#: search-engines.php:541
+msgid "Archives"
+msgstr "Archivos"
+
+#: search-engines.php:544
+msgid "Search"
+msgstr "Búsquedas"
+
+#: search-engines.php:547
+msgid "Error"
+msgstr "Error"
+
+#: search-engines.php:608
+msgid "Title"
+msgstr "Título"
+
+#: search-engines.php:609
+msgid "Title Separator Blogname"
+msgstr "Título Separador Blog"
+
+#: search-engines.php:610
+msgid "Title Separator Label"
+msgstr "Título Separador Etiqueta"
+
+#: search-engines.php:611
+msgid "Title Separator Label Separator Blogname"
+msgstr "Título Separador Etiqueta Separador Blog"
+
+#: search-engines.php:612
+msgid "Blogname"
+msgstr "Blog"
+
+#: search-engines.php:613
+msgid "Blogname Separator Title"
+msgstr "Blog Separador Título"
+
+#: search-engines.php:614
+msgid "Blogname Separator Label"
+msgstr "Blog Separator Etiqueta"
+
+#: search-engines.php:615
+msgid "Blogname Separator Label Separator Title"
+msgstr "Blog Separador Etiqueta Separador Título"
+
+#: search-engines.php:616
+msgid "Label Separator Blogname"
+msgstr "Etiqueta Separador Blog"
+
+#: search-engines.php:624
+msgid "Keyword Separator Blogname"
+msgstr "Palabras clave Separador Blog"
+
+#: search-engines.php:625
+msgid "Label Keyword"
+msgstr "Etiqueta Palabras clave"
+
+#: search-engines.php:626
+msgid "Label Keyword Separator Blogname"
+msgstr "Etiqueta Palabras clave Seperador Blog"
+
+#: search-engines.php:636
+#, php-format
+msgid "Blogname Separator %1$s"
+msgstr "Blog Seperador %1$s"
+
+#: search-engines.php:637
+#, php-format
+msgid "Blogname Separator %1$s Separator Title"
+msgstr "Blog Seperador %1$s Seperador Title"
+
+#: search-engines.php:638
+#, php-format
+msgid "Blogname Separator %1$s Separator Label"
+msgstr "Blog Seperador %1$s Separador Etiqueta"
+
+#: search-engines.php:639
+#, php-format
+msgid "Title Separator %1$s"
+msgstr "Título Separador %1$s"
+
+#: search-engines.php:640
+#, php-format
+msgid "Title Separator %1$s Separator Blogname"
+msgstr "Título Separador %1$s Separador Blog"
+
+#: search-engines.php:641
+#, php-format
+msgid "Title Separator %1$s Separator Label"
+msgstr "Título Separador %1$s Separador Etiqueta"
+
+#: search-engines.php:667
+#: search-engines.php:704
+#: search-engines.php:1151
+#: search-engines.php:1203
+msgid "Default"
+msgstr "Default"
+
+#: search-engines.php:672
+msgid "Excerpt of the current post"
+msgstr "Extracto del post actual"
+
+#: search-engines.php:676
+msgid "Description"
+msgstr "Descripción"
+
+#: search-engines.php:680
+msgid "Titles of all listed posts"
+msgstr "Títulos de todos los post"
+
+#: search-engines.php:684
+#: search-engines.php:720
+msgid "Nothing"
+msgstr "Nada"
+
+#: search-engines.php:709
+msgid "Terms of the current post"
+msgstr "Términos del post actual"
+
+#: search-engines.php:712
+msgid "Post Mime Type"
+msgstr "Mime Type"
+
+#: search-engines.php:716
+msgid "Terms of all listed posts"
+msgstr "Terminos de todos los post enlistados"
+
+#: search-engines.php:869
+#: search-engines.php:975
+msgid "Search Engines Settings"
+msgstr "Configuración de Search Engines"
+
+#: search-engines.php:872
+msgid "If you operate your website for hobby or profit, SEO can be an important tool in making your website popular. SEO is not rocket science (or anywhere close to it). But it certainly can get as technical and detailed as you want to make it."
+msgstr "Si operas un sitio web por hobby o ganancias, la estrategia SEO puede ser la herramienta más importante para hacer tu sitio web popular. SEO no es una ciencia (o cualquier cosa similar)."
+
+#: search-engines.php:872
+msgid "This plugin is here to help you get your job done!"
+msgstr "Este plugin esta aquí para ayudarte a hacer el trabajo!"
+
+#: search-engines.php:893
+msgid "Search Engine Optimization"
+msgstr "Search Engine Optimization"
+
+#: search-engines.php:1074
+msgid "Document Title"
+msgstr "Título del documento"
+
+#: search-engines.php:1077
+msgid "Edit meta description"
+msgstr "Editar descripciones"
+
+#: search-engines.php:1080
+msgid "Edit meta keywords"
+msgstr "Editar las palabras clave"
+
+#: search-engines.php:1083
+msgid "Avoid duplicate content"
+msgstr "Evitar contenido duplicado"
+
+#: search-engines.php:1086
+msgid "Webmasters Tools Verification"
+msgstr "Herramientas de verificación para Webmasters"
+
+#: search-engines.php:1100
+msgid "Activate formatting of the title"
+msgstr "Activar el formato de los títulos"
+
+#: search-engines.php:1104
+msgid "Format"
+msgstr "Formato"
+
+#: search-engines.php:1118
+msgid "Separator"
+msgstr "Separador"
+
+#: search-engines.php:1121
+msgid "Special signs can be entered as HTML. Example: &amp;raquo; becomes &raquo;"
+msgstr "Los caracteres espaciales pueden ser introducidos como HTML. Ejemplo: &amp;raquo; será &raquo;"
+
+#: search-engines.php:1125
+msgid "Labels"
+msgstr "Etiquetas"
+
+#: search-engines.php:1147
+msgid "Activate formatting of the meta description"
+msgstr "Activar el formato de las descripciones"
+
+#: search-engines.php:1154
+#: search-engines.php:1206
+msgid "Only used if \"Default\" selected in the \"Dynamic value\""
+msgstr "Es usado unicamente si \"Default\" es seleccionado en \"Valores dinámicos\""
+
+#: search-engines.php:1158
+#: search-engines.php:1210
+msgid "Dynamic value"
+msgstr "Valores dinámicos"
+
+#: search-engines.php:1170
+msgid "Don't generate automatically the descriptions"
+msgstr "No generar automáticamente las descripciones"
+
+#: search-engines.php:1174
+#: search-engines.php:1224
+msgid "Number of words"
+msgstr "Número de palabras"
+
+#: search-engines.php:1182
+msgid "Maximum count of words, after that it will cut"
+msgstr "Máximo número de palabras"
+
+#: search-engines.php:1199
+msgid "Activate formatting of the meta keywords"
+msgstr "Activar el formato de las palabras clave"
+
+#: search-engines.php:1234
+msgid "Short words"
+msgstr "Caracteres"
+
+#: search-engines.php:1244
+msgid "Relevance"
+msgstr "Relevancia"
+
+#: search-engines.php:1247
+msgid "Words between HTML tags will be interpreted as most relevant keywords"
+msgstr "Las palabras entre las etiquetas HTML serán interpretadas como las palabras clave más relevantes"
+
+#: search-engines.php:1247
+msgid "Detects the following XHTML tags: &lt;em>...&lt;/em>, &lt;strong>...&lt;/strong>"
+msgstr "Detectar las siguientes etiquetas XHTML: &lt;em>...&lt;/em>, &lt;strong>...&lt;/strong>"
+
+#: search-engines.php:1264
+msgid "Activate integration of the Robots tag"
+msgstr "Activar la integración de la etiqueta Robots"
+
+#: search-engines.php:1268
+msgid "Robots"
+msgstr "Robots"
+
+#: search-engines.php:1281
+msgid "Protect RSS Feeds"
+msgstr "Proteger los RSS Feeds"
+
+#: search-engines.php:1284
+msgid "Prevent indexing of RSS Feeds by search engines"
+msgstr "Prevenir la indexión de los RSS Feeds por los motores de búsqueda"
+
+#: search-engines.php:1288
+msgid "ODP snippet"
+msgstr "ODP snippet"
+
+#: search-engines.php:1291
+msgid "Add the &lt;meta name=\"robots\" content=\"noodp\" /> meta tag to the source code"
+msgstr "Agregar la meta tag &lt;meta name=\"robots\" content=\"noodp\" /> al código"
+
+#: search-engines.php:1295
+msgid "Noarchive snippet"
+msgstr "Noarchive snippet"
+
+#: search-engines.php:1298
+msgid "Add the &lt;meta name=\"robots\" content=\"noarchive\" /> meta tag to the source code"
+msgstr "Agregar la meta tag &lt;meta name=\"robots\" content=\"noarchive\" /> al código"
+
+#: search-engines.php:1302
+msgid "Yahoo! Directory"
+msgstr "Yahoo! Directory"
+
+#: search-engines.php:1305
+msgid "Add the &lt;meta name=\"robots\" content=\"noydir\" /> meta tag to the source code"
+msgstr "Agregar la meta tag &lt;meta name=\"robots\" content=\"noydir\" /> al código"
+
+#: search-engines.php:1322
+msgid "Activate integration of the Webmasters Tools. If your site is already verified, you can just forget about these"
+msgstr "Activar la integración de Webmasters Tools. Si tu sitio ya ha sido verificado, puedes olvidarte de esto"
+
+#: search-engines.php:1326
+msgid "Bing"
+msgstr "Bing"
+
+#: search-engines.php:1332
+msgid "Google"
+msgstr "Google"
+
+#: search-engines.php:1338
+msgid "Yahoo!"
+msgstr "Yahoo!"
+
+#: search-engines.php:1403
+msgid "Document Title:"
+msgstr "Título del documento:"
+
+#: search-engines.php:1407
+msgid "Meta Description:"
+msgstr "Descripción:"
+
+#: search-engines.php:1411
+msgid "Meta Keywords:"
+msgstr "Palabras clave:"
+
+#: search-engines.php:1415
+msgid "Meta Robots:"
+msgstr "Robots:"
+
+#: search-engines.php:1419
+msgid "301 Redirect:"
+msgstr "Redirección 301:"
+
+#: search-engines.php:1466
+msgid "Settings"
+msgstr "Configuración"
+
+#~ msgid "Search Engine Settings"
+#~ msgstr "Configuración de Search Engines"

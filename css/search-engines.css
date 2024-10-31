@@ -1,0 +1,48 @@
+/**
+ * Search Engines Admin pages.
+ *
+ * @since 1.0.1
+ * @package Seach Engines
+ * @subpackage CSS
+ */
+
+/* Plugin Settings Page. */
+.settings_page_search-engines-settings #icon-search-engines {
+	background: url(../images/search-engines-32.png) no-repeat scroll;
+}
+
+.settings_page_search-engines-settings .metabox-holder .column-1 {
+	width: 100%;
+}
+
+.settings_page_search-engines-settings .form-table {
+	margin: 10px !important;
+	overflow: hidden;
+}
+
+.settings_page_search-engines-settings .form-table th {
+	font-size: 11px;
+	width: 20%;
+}
+
+.settings_page_search-engines-settings .form-table td label.area {
+	float: left;
+	width: 100px;
+}
+
+.settings_page_search-engines-settings .form-table td br {
+	clear: both;
+	margin-bottom: 15px;
+}
+
+.settings_page_search-engines-settings .form-table td input[type='text'] {
+	width: 300px;
+}
+
+.settings_page_search-engines-settings .form-table td select {
+	width: 300px;
+}
+
+.settings_page_search-engines-settings .form-table td .full-width-setting {
+	width: 400px !important;
+}
